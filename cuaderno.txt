@@ -1,6 +1,0 @@
-                                    Cuaderno de Anotaciones sobre el Código .c y .h
-
-La extensión .h es el encabezado
-La extensión .c es el código
-
-
